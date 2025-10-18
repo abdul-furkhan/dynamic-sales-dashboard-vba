@@ -37,15 +37,14 @@ The dashboard provides actionable insights into sales performance, revenue, prof
 - Backend cost references for margin calculations  
 
 ---
-
 ## Screenshots
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Dashboard](images/dashboard.png) | Full interactive dashboard view with KPIs and slicers |
-| ![Analysis](images/analysis.png) | Analysis sheet showing trends and breakdowns |
-| ![Dataset Overview](images/dataset-overview.png) | Sample of raw sales data powering the dashboard |
-| ![Sales Form](images/sales-form.png) | VBA-powered interactive sales entry form |
+| ![Dashboard](https://github.com/abdul-furkhan/dynamic-sales-dashboard-vba/blob/main/images/dashboard.png) | Full interactive dashboard view showing charts, KPIs, and slicers for sales, profit, and revenue |
+| ![Analysis](https://github.com/abdul-furkhan/dynamic-sales-dashboard-vba/blob/main/images/Analysis.png) | Analysis sheet showing trends, category breakdowns, and sales insights |
+| ![Dataset Overview](https://github.com/abdul-furkhan/dynamic-sales-dashboard-vba/blob/main/images/Dataset%20Overview.png) | Sample of raw retail sales data powering the dashboard |
+| ![Sales Form](https://github.com/abdul-furkhan/dynamic-sales-dashboard-vba/blob/main/images/Sales%20Form.png) | VBA-powered interactive sales entry form for adding new transactions |
 
 ---
 
